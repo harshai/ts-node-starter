@@ -1,5 +1,16 @@
 {
-	"name": "goanna",
+	"name": "ts-node-starter",
+	"description": "Minimal typescript-node starter with hot reloading",
+	"repository": {
+    "type": "git",
+		"url": "https://github.com/harshai/ts-node-starter"
+	},
+	"author": "Harsha Ivaturi",
+	"homepage": "https://github.com/harshai/ts-node-starter#minimal-typescript-node-starter",
+"bugs": {
+    "url": "https://github.com/harshai/ts-node-starter/issues"
+  },
+	"license": "MIT",
 	"version": "1.0.0",
 	"main": "index.js",
 	"license": "MIT",

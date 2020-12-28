@@ -5,7 +5,7 @@
 - Hot loading
 - Prettier
 - ES lint
-- Pre-commit hooks to run prettier, eslint and install missing types
+- Pre-commit hooks to run prettier and eslint
 
 ## Commands
 
