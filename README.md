@@ -16,6 +16,6 @@
 ## Usage
 
 1. Clone this repo
-2. Update package info in package.json
+2. Update package info in package.json and this README.md
 3. Run `npm install`
 4. Run `npm run start:dev`
