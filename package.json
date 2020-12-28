@@ -10,7 +10,6 @@
 "bugs": {
     "url": "https://github.com/harshai/ts-node-starter/issues"
   },
-	"license": "MIT",
 	"version": "1.0.0",
 	"main": "index.js",
 	"license": "MIT",
